@@ -1,13 +1,13 @@
 # Temporary Files
 
-Download Anythings...
+Download Anythings...<br/>
 Download Everywhere...
 
 **How To**
-- Using curl
+- Using curl<br/>
 `curl https://raw.githubusercontent.com/<username>/<repo>/master/<filename> --output <filename>`
 
-- Using wget
+- Using wget<br/>
 `wget -O <filename> https://raw.githubusercontent.com/<username>/<repo>/master/<filename>`
 &nbsp;
 
