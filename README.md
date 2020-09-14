@@ -1,4 +1,7 @@
-# Temporary CDN
+# Temporary Files
+
+Download Anythings...
+Download Everywhere...
 
 **How To**
 - Using curl
