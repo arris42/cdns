@@ -4,10 +4,10 @@ Download Anythings...<br/>
 Download Everywhere...
 
 **How To**
-- Using curl<br/>
+- Using curl (cmd)<br/>
 `curl https://raw.githubusercontent.com/<username>/<repo>/master/<filename> --output <filename>`
 
-- Using wget<br/>
+- Using wget (powershell)<br/>
 `wget -O <filename> https://raw.githubusercontent.com/<username>/<repo>/master/<filename>`
 &nbsp;
 
